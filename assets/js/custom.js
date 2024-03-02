@@ -12,7 +12,7 @@ $(document).ready(function () {
             // Loop through the JSON data and generate HTML
             $.each(data, function (index, category) {
                 var categoryHtml = `
-<div class="container">
+<div class="container mt-4">
         <div class="row justify-content-center">
           <div class="col-lg-10">
             <div class="section-title text-center pb-40">
