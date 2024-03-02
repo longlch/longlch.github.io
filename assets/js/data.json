@@ -1,0 +1,110 @@
+[
+  {
+    "type": "Chăn ga",
+    "products":[
+      {
+        "brand": "Hoàng Kim",
+        "name": "Nệm Kim Đan",
+        "originalPrice": "100.000",
+        "finalPrice": "500.000",
+        "image": "p1.jpg"
+      },{
+        "brand": "Hoàng Kim",
+        "name": "Nệm Kim Đan",
+        "originalPrice": "100.000",
+        "finalPrice": "500.000",
+        "image": "p2.jpg"
+      },
+      {
+        "brand": "Hoàng Kim",
+        "name": "Nệm Kim Đan",
+        "originalPrice": "100.000",
+        "finalPrice": "500.000",
+        "image": "p3.jpg"
+      },
+      {
+        "brand": "Hoàng Kim",
+        "name": "Nệm Kim Đan",
+        "originalPrice": "100.000",
+        "finalPrice": "500.000",
+        "image": "p4.jpg"
+      },
+      {
+        "brand": "Hoàng Kim",
+        "name": "Nệm Kim Đan",
+        "originalPrice": "100.000",
+        "finalPrice": "500.000",
+        "image": "p5.jpg"
+      },
+      {
+        "brand": "Hoàng Kim",
+        "name": "Nệm Kim Đan",
+        "originalPrice": "100.000",
+        "finalPrice": "500.000",
+        "image": "p6.jpg"
+      }
+    ]
+  },
+  {
+    "type": "gối nệm",
+    "products":[
+      {
+        "brand": "Hoàng Kim",
+        "name": "Nệm Kim Đan",
+        "originalPrice": "100.000",
+        "finalPrice": "500.000",
+        "image": "p7.jpg"
+
+      },
+      {
+        "brand": "Hoàng Kim",
+        "name": "Nệm Kim Đan",
+        "originalPrice": "100.000",
+        "finalPrice": "500.000",
+        "image": "p8.jpg"
+      },
+      {
+        "brand": "Hoàng Kim",
+        "name": "Nệm Kim Đan",
+        "originalPrice": "100.000",
+        "finalPrice": "500.000",
+        "image": "p9.jpg"
+      },
+      {
+        "brand": "Hoàng Kim",
+        "name": "Nệm Kim Đan",
+        "originalPrice": "100.000",
+        "finalPrice": "500.000",
+        "image": "p10.jpg"
+      },
+      {
+        "brand": "Hoàng Kim",
+        "name": "Nệm Kim Đan",
+        "originalPrice": "100.000",
+        "finalPrice": "500.000",
+        "image": "p11.jpg"
+      },
+      {
+        "brand": "Hoàng Kim",
+        "name": "Nệm Kim Đan",
+        "originalPrice": "100.000",
+        "finalPrice": "500.000",
+        "image": "p12.jpg"
+      },
+      {
+        "brand": "Hoàng Kim",
+        "name": "Nệm Kim Đan",
+        "originalPrice": "100.000",
+        "finalPrice": "500.000",
+        "image": "p13.jpg"
+      },
+      {
+        "brand": "Hoàng Kim",
+        "name": "Nệm Kim Đan",
+        "originalPrice": "100.000",
+        "finalPrice": "500.000",
+        "image": "p14.jpg"
+      }
+    ]
+  }
+]
