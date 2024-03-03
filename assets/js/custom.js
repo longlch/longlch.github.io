@@ -1,14 +1,7 @@
 $(document).ready(function () {
-    console.log("hello");
-
     fetch('./assets/js/data.json')
         .then(response => response.json())
         .then(data => {
-            console.log("data", data)
-            let products = data;
-
-            $('#product-content').append();
-
             // Loop through the JSON data and generate HTML
             $.each(data, function (index, category) {
                 var categoryHtml = `
