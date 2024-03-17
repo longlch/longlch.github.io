@@ -19,10 +19,10 @@
 
     if (window.pageYOffset > sticky) {
       header_navbar.classList.add("sticky");
-      logo.src = "assets/images/logo/logo-kimlong-black.svg";
+      logo.src = "assets/images/logo/logo-black.svg";
     } else {
       header_navbar.classList.remove("sticky");
-      logo.src = "assets/images/logo/logo-kimlong-white.svg";
+      logo.src = "assets/images/logo/logo-white.svg";
     }
 
     // show or hide the back-top-top button
