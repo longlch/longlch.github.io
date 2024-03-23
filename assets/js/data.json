@@ -3,50 +3,84 @@
     "type": "Chăn ga",
     "products":[
       {
-        "brand": "Hoàng Kim",
-        "name": "Nệm Kim Đan",
+        "brand": "Everon",
+        "name": "Bộ chăn bốn mùa Summer",
         "originalPrice": "100.000",
-        "finalPrice": "500.000",
+        "finalPrice": "300.000",
         "image": "p1.jpg"
       },{
-        "brand": "Hoàng Kim",
-        "name": "Nệm Kim Đan",
+        "brand": "Kymdan",
+        "name": "Chăn lông tuyết Microfiber",
         "originalPrice": "100.000",
-        "finalPrice": "500.000",
-        "image": "p2.jpg"
+        "finalPrice": "200.000",
+        "image": "p7.jpg"
       },
       {
-        "brand": "Hoàng Kim",
-        "name": "Nệm Kim Đan",
+        "brand": "Liên Á",
+        "name": "Bộ ga chun chăn chần bốn mùa",
         "originalPrice": "100.000",
-        "finalPrice": "500.000",
+        "finalPrice": "600.000",
         "image": "p3.jpg"
       },
       {
-        "brand": "Hoàng Kim",
-        "name": "Nệm Kim Đan",
+        "brand": "Liên Á",
+        "name": "Bộ ga chun polyester gấm",
         "originalPrice": "100.000",
-        "finalPrice": "500.000",
-        "image": "p4.jpg"
-      },
-      {
-        "brand": "Hoàng Kim",
-        "name": "Nệm Kim Đan",
-        "originalPrice": "100.000",
-        "finalPrice": "500.000",
-        "image": "p5.jpg"
-      },
-      {
-        "brand": "Hoàng Kim",
-        "name": "Nệm Kim Đan",
-        "originalPrice": "100.000",
-        "finalPrice": "500.000",
+        "finalPrice": "300.000",
         "image": "p6.jpg"
+      },
+      {
+        "brand": "Everon",
+        "name": "Bộ ga chun Tencen polyester",
+        "originalPrice": "100.000",
+        "finalPrice": "600.000",
+        "image": "p5.jpg"
       }
     ]
   },
   {
     "type": "gối nệm",
+    "products":[
+      {
+        "brand": "Havico",
+        "name": "Nệm Kim Đan",
+        "originalPrice": "100.000",
+        "finalPrice": "500.000",
+        "image": "p7.jpg"
+
+      },
+      {
+        "brand": "Havico",
+        "name": "Nệm Kim Đan",
+        "originalPrice": "100.000",
+        "finalPrice": "500.000",
+        "image": "p8.jpg"
+      },
+      {
+        "brand": "Kymdan",
+        "name": "Nệm Kim Đan",
+        "originalPrice": "100.000",
+        "finalPrice": "500.000",
+        "image": "p9.jpg"
+      },
+      {
+        "brand": "Hoàng Kim",
+        "name": "Nệm Kim Đan",
+        "originalPrice": "100.000",
+        "finalPrice": "500.000",
+        "image": "p10.jpg"
+      },
+      {
+        "brand": "Hoàng Kim",
+        "name": "Nệm Kim Đan",
+        "originalPrice": "100.000",
+        "finalPrice": "500.000",
+        "image": "p11.jpg"
+      }
+    ]
+  },
+  {
+    "type": "màn chiếu",
     "products":[
       {
         "brand": "Hoàng Kim",
@@ -83,27 +117,6 @@
         "originalPrice": "100.000",
         "finalPrice": "500.000",
         "image": "p11.jpg"
-      },
-      {
-        "brand": "Hoàng Kim",
-        "name": "Nệm Kim Đan",
-        "originalPrice": "100.000",
-        "finalPrice": "500.000",
-        "image": "p12.jpg"
-      },
-      {
-        "brand": "Hoàng Kim",
-        "name": "Nệm Kim Đan",
-        "originalPrice": "100.000",
-        "finalPrice": "500.000",
-        "image": "p13.jpg"
-      },
-      {
-        "brand": "Hoàng Kim",
-        "name": "Nệm Kim Đan",
-        "originalPrice": "100.000",
-        "finalPrice": "500.000",
-        "image": "p14.jpg"
       }
     ]
   }
