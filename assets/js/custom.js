@@ -70,5 +70,11 @@ $(document).ready(function () {
             });
 
 
+        }).then(()=>{
+        $(".card-product").click(function(){
+            let element = document.getElementById("footer");
+            element.scrollIntoView({ behavior: 'smooth', block: 'start' });
         });
+    });
+
 });
