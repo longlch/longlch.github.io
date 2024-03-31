@@ -10,7 +10,7 @@ $(document).ready(function () {
           <div class="col-lg-10">
             <div class="section-title text-center pb-40">
               <div class="line m-auto"></div>
-              <h3 class="title">${category.type}</h3>
+              <p class="title">${category.type}</p>
             </div>
           </div>
         </div>
