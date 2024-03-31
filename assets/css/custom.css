@@ -76,3 +76,9 @@ img {
 .font-cond-b {
     font-weight: 700 !important;
 }
+
+p.title{
+    font-weight: 700;
+    font-family: "Poppins", sans-serif;
+    color: black;
+}
