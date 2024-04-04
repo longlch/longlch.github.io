@@ -1,122 +1,122 @@
 [
   {
-    "type": "Chăn ga",
+    "type": "Ga Giường",
     "products":[
       {
         "brand": "Everon",
         "name": "Bộ chăn bốn mùa Summer",
         "originalPrice": "100.000",
         "finalPrice": "300.000",
-        "image": "p1.jpg"
+        "image": "ga1.jpg"
       },{
         "brand": "Kymdan",
         "name": "Chăn lông tuyết Microfiber",
         "originalPrice": "100.000",
         "finalPrice": "200.000",
-        "image": "p7.jpg"
+        "image": "ga2.jpg"
       },
       {
         "brand": "Liên Á",
         "name": "Bộ ga chun chăn chần bốn mùa",
         "originalPrice": "100.000",
         "finalPrice": "600.000",
-        "image": "p3.jpg"
+        "image": "ga3.jpg"
       },
       {
         "brand": "Liên Á",
         "name": "Bộ ga chun polyester gấm",
         "originalPrice": "100.000",
         "finalPrice": "300.000",
-        "image": "p6.jpg"
+        "image": "ga4.jpg"
       },
       {
         "brand": "Everon",
         "name": "Bộ ga chun Tencen polyester",
         "originalPrice": "100.000",
         "finalPrice": "600.000",
-        "image": "p5.jpg"
+        "image": "ga5.jpg"
       }
     ]
   },
   {
-    "type": "gối nệm",
+    "type": "gối",
     "products":[
       {
         "brand": "Havico",
-        "name": "Nệm Kim Đan",
+        "name": "Gối Hermes",
         "originalPrice": "100.000",
-        "finalPrice": "500.000",
-        "image": "p7.jpg"
+        "finalPrice": "70.000",
+        "image": "goi1.jpg"
 
       },
       {
         "brand": "Havico",
-        "name": "Nệm Kim Đan",
+        "name": "Gối Hơi",
         "originalPrice": "100.000",
-        "finalPrice": "500.000",
-        "image": "p8.jpg"
-      },
-      {
-        "brand": "Kymdan",
-        "name": "Nệm Kim Đan",
-        "originalPrice": "100.000",
-        "finalPrice": "500.000",
-        "image": "p9.jpg"
+        "finalPrice": "600.000",
+        "image": "goi2.jpg"
       },
       {
         "brand": "Hoàng Kim",
-        "name": "Nệm Kim Đan",
+        "name": "Gối Cao Su Hoàng Kim",
         "originalPrice": "100.000",
         "finalPrice": "500.000",
-        "image": "p10.jpg"
+        "image": "goi3.jpg"
       },
       {
         "brand": "Hoàng Kim",
-        "name": "Nệm Kim Đan",
+        "name": "Gối Cao Su",
+        "originalPrice": "200.000",
+        "finalPrice": "150.000",
+        "image": "goi4.jpg"
+      },
+      {
+        "brand": "Hoàng Kim",
+        "name": "Gối Gấu Dâu",
         "originalPrice": "100.000",
-        "finalPrice": "500.000",
-        "image": "p11.jpg"
+        "finalPrice": "50.000",
+        "image": "goi5.jpg"
       }
     ]
   },
   {
-    "type": "Khăn",
+    "type": "Nệm",
     "products":[
       {
         "brand": "Hoàng Kim",
-        "name": "Nệm Kim Đan",
-        "originalPrice": "100.000",
-        "finalPrice": "500.000",
-        "image": "p7.jpg"
+        "name": "Nệm sinh viên",
+        "originalPrice": "200.000",
+        "finalPrice": "120.000",
+        "image": "nem1.jpg"
 
       },
       {
-        "brand": "Hoàng Kim",
-        "name": "Nệm Kim Đan",
-        "originalPrice": "100.000",
-        "finalPrice": "500.000",
-        "image": "p8.jpg"
+        "brand": "Sochi",
+        "name": "Nệm Sochi",
+        "originalPrice": "2.999.000",
+        "finalPrice": "1.999.000",
+        "image": "nem2.jpg"
       },
       {
         "brand": "Hoàng Kim",
         "name": "Nệm Kim Đan",
         "originalPrice": "100.000",
         "finalPrice": "500.000",
-        "image": "p9.jpg"
+        "image": "nem3.jpg"
+      },
+      {
+        "brand": "Thắng Lợi",
+        "name": "Nệm Kim Đan",
+        "originalPrice": "600.000",
+        "finalPrice": "300.000",
+        "image": "nem4.jpg"
       },
       {
         "brand": "Hoàng Kim",
-        "name": "Nệm Kim Đan",
-        "originalPrice": "100.000",
-        "finalPrice": "500.000",
-        "image": "p10.jpg"
-      },
-      {
-        "brand": "Hoàng Kim",
-        "name": "Nệm Kim Đan",
-        "originalPrice": "100.000",
-        "finalPrice": "500.000",
-        "image": "p11.jpg"
+        "name": "Drap Tencel",
+        "originalPrice": "400.000",
+        "finalPrice": "300.000",
+        "image": "nem5.jpg"
       }
     ]
   }
