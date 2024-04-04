@@ -12,4 +12,4 @@ Optimize SEO
 - https://seositecheckup.com/seo-audit/nemkimlong.com
 
 Default Color
-- #2e82ef
+- Gradient color: #ffffff #2e82ef
